@@ -1,0 +1,14 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\bin\Debug\net8.0\ConsoleAdvDataBinding.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\bin\Debug\net8.0\ConsoleAdvDataBinding.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\bin\Debug\net8.0\ConsoleAdvDataBinding.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\bin\Debug\net8.0\ConsoleAdvDataBinding.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\bin\Debug\net8.0\ConsoleAdvDataBinding.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\refint\ConsoleAdvDataBinding.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ConsoleAdvDataBinding.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleAdvDataBinding\ConsoleAdvDataBinding\obj\Debug\net8.0\ref\ConsoleAdvDataBinding.dll
